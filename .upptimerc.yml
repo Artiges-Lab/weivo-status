@@ -4,7 +4,7 @@ user-agent: Artj123
 sites:
 - name: Weivo App
   url: https://app.weivo.io
-- name: Weivo Marketing
+- name: Weivo Marketing Website
   url: https://weivo.io
 status-website:
   cname: status.weivo.io
