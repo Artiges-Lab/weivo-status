@@ -1,21 +1,21 @@
-owner: Artj123
-  repo: weivo-status                                                                                    
-  user-agent: Artj123                                                                                 
-                                                                                                        
-  sites:                                                                                                
-    - name: Weivo App                          
-      url: https://app.weivo.io                                                                         
-    - name: Weivo Marketing                                                                           
-      url: https://weivo.io                    
-                                                                                                        
-  status-website:
-    name: Weivo Status                                                                                  
-    introTitle: "**Weivo Status**"                                                                    
-    introMessage: Live uptime and incident history for app.weivo.io and weivo.io.                       
-    navbar:                                                                                             
-      - title: Status                                                                                   
-        href: /                                                                                         
-      - title: GitHub                                                                                   
-        href: https://github.com/Artj123/weivo-status
-    cname: status.weivo.io                                                                              
-    theme: light                                
+owner: Artj123                                                                                      
+repo: weivo-status                           
+user-agent: Artj123
+
+sites:
+- name: Weivo App
+url: https://app.weivo.io
+- name: Weivo Marketing
+url: https://weivo.io                                                                                 
+ 
+status-website:                                                                                       
+  name: Weivo Status                                                                                
+  introTitle: "Weivo Status"                 
+  introMessage: Live uptime and incident history for app.weivo.io and weivo.io.
+  navbar:                                                                                             
+    - title: Status
+      href: /                                                                                         
+    - title: GitHub                                                                                 
+      href: https://github.com/Artj123/weivo-status
+  cname: status.weivo.io
+  theme: light
